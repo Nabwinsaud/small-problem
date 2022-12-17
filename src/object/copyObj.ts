@@ -11,7 +11,7 @@ interface IUser {
 }
 export const user: { name: string; age: number; profession?: string } = {
   name: "Nabin",
-  age: 12,
+  age: 19,
   profession: "full stack developer",
 };
 

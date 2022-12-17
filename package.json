@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "global": "^4.4.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
