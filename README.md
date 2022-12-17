@@ -1,7 +1,7 @@
 # small-problem
 
 
-## This Repo conisists of concepts and topic in JS TS 
+## This Repo consists of concepts and topic in JS TS 
 
 
 #### This type of concepts are hilighted in the repo
